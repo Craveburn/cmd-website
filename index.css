@@ -13,3 +13,10 @@ header{
 	font-size: 100px;
 	color: white;
 }
+
+dl{
+
+	font-family: helvetica;
+	font-size: 25px;
+	color: yellow;
+}
